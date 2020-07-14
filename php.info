@@ -1,1 +1,5 @@
 php.info file from main local repo
+<?php phpinfo();  ?>
+
+<Warpigs>
+
